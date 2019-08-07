@@ -13,7 +13,7 @@ nim nudesbait.nims
 
 - Requires Internet connection and `curl` (wont use too much disk nor network).
 - Disable Folder Thumbnails, leave PC alone for a minute, record the activity somehow. You can delete the script after.
-- You can also ZIP it and send it so someone asking to *Send Nudes*. Ideas and Pull Requests welcome.
+- You can also ZIP it and send it to someone unwanted asking to *Send Nudes*. Ideas and Pull Requests welcome.
 
 
 # Install
