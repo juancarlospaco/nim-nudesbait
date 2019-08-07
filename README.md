@@ -11,7 +11,7 @@
 nim nudesbait.nims
 ```
 
-- Requires Internet connection and `curl` (wont use too much disk nor network).
+- Requires Internet connection and `curl` (wont use too much disk nor network). The idea is confirm who you can trust.
 - Disable Folder Thumbnails, leave PC alone for a minute, record the activity somehow. You can delete the script after.
 - You can also ZIP it and send it to someone unwanted asking to *Send Nudes*. Ideas and Pull Requests welcome.
 
