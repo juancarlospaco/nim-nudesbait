@@ -19,7 +19,7 @@ nim nudesbait.nims
 # Install
 
 ```console
-curl https://raw.githubusercontent.com/juancarlospaco/nim-nudesbait/master/nudesbait.nims
+curl -LO https://raw.githubusercontent.com/juancarlospaco/nim-nudesbait/master/nudesbait.nims
 ```
 
 
