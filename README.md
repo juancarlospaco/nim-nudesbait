@@ -12,7 +12,7 @@ nim nudesbait.nims
 ```
 
 - Requires Internet connection and `curl` (wont use too much disk nor network).
-- Disable Folder Thumbnails and record the activity somehow. You can delete the script after.
+- Disable Folder Thumbnails, leave computer alone for a minute and record the activity somehow. You can delete the script after.
 
 
 # Install
