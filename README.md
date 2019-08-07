@@ -11,6 +11,9 @@
 nim nudesbait.nims
 ```
 
+- Requires Internet connection (wont use too much disk nor network).
+
+
 # Install
 
 ```console
