@@ -12,7 +12,7 @@ nim nudesbait.nims
 ```
 
 - Requires Internet connection and `curl` (wont use too much disk nor network).
-Disable Folder Thumbnails and record activity somehow.
+- Disable Folder Thumbnails and record the activity somehow.
 
 
 # Install
