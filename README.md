@@ -11,7 +11,7 @@
 nim nudesbait.nims
 ```
 
-- Requires Internet connection (wont use too much disk nor network).
+- Requires Internet connection and `curl` (wont use too much disk nor network).
 
 
 # Install
