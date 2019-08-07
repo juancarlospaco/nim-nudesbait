@@ -1,8 +1,9 @@
 # NudesBait
 
-- Make a Fake *"Nudes"* folders (Bait) using tiny Wikipedia images on NimScript.
+- Make a Fake *"Nudes"* folders (Bait) using tiny Wikipedia images (3 per folder) on [NimScript](https://nim-lang.github.io/Nim/nims.html).
 
 [<img src="https://img.youtube.com/vi/DDBB34kH7gw/maxresdefault.jpg" width="99%">](https://youtu.be/DDBB34kH7gw)
+
 
 # Use
 
