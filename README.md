@@ -21,6 +21,7 @@ nim nudesbait.nims
 ```console
 curl -LO https://raw.githubusercontent.com/juancarlospaco/nim-nudesbait/master/nudesbait.nims
 ```
+- Download it.
 
 
 # Uninstall
@@ -28,3 +29,4 @@ curl -LO https://raw.githubusercontent.com/juancarlospaco/nim-nudesbait/master/n
 ```console
 rm nudesbait.nims
 ```
+- Delete it.
