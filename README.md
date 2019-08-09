@@ -7,8 +7,14 @@
 
 # Use
 
-```nim
+```console
 nim nudesbait.nims
+```
+
+**OR**
+
+```console
+nim c -r nudesbait2.nim
 ```
 
 - Requires Internet connection and `curl` (wont use too much disk nor network). The idea is to use it as wankers Bait.
