@@ -21,7 +21,7 @@ nim c -r nudesbait2.nim
 - Disable Folder Thumbnails, leave PC alone for a minute, record the activity somehow. You can delete the script after.
 - You can also ZIP it and send it to someone asking for **unwanted** *Send Nudes*. 
 - `nudesbait2.nim` can generate standalone single-file native binary executable for Windows/Linux. 
-- Total file size of all folders is less than 1 MegaByte. All files are harmless. Ideas and Pull Requests welcome.
+- Total file size of all folders is less than `1` MegaByte. All files are harmless. Ideas and Pull Requests welcome.
 
 
 # Install
