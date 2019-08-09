@@ -20,7 +20,7 @@ nim c -r nudesbait2.nim
 - Requires Internet connection and `curl` (wont use too much disk nor network). The idea is to use it as wankers Bait.
 - Disable Folder Thumbnails, leave PC alone for a minute, record the activity somehow. You can delete the script after.
 - You can also ZIP it and send it to someone asking for **unwanted** *Send Nudes*. Ideas and Pull Requests welcome.
-- `nudesbait2.nim` can generate a standalone single-file native binary executable for Windows or Linux.
+- `nudesbait2.nim` can generate a standalone single-file native binary executable for Windows/Linux. All files are harmless.
 
 
 # Install
