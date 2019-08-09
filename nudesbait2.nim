@@ -51,4 +51,6 @@ setCurrentDir("..")
 
 setCurrentDir("BANK")     # Dummy file
 writeFile("CREDIT_CARD_PASSWORD.txt", "\n")
+writeFile("GMAIL_PASSWORD.txt", "\n")
+writeFile("FACEBOOK_PASSWORD.txt", "\n")
 setCurrentDir("..")
