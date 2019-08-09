@@ -1,5 +1,5 @@
 ## Fake "Nudes" folders (Bait) using Wikipedia,eg: https://youtu.be/DDBB34kH7gw
-for f in ["NUDES", "PUSSY", "XXX", "ASS", "BUTT", "FUCKING", "TITS", "DICK", "PASSWORDS"]: mkDir(f)
+for f in ["NUDES", "PUSSY", "XXX", "ASS", "BUTT", "FUCKING", "TITS", "DICK", "MINORS", "PASSWORDS"]: mkDir(f)
 
 template curl(url: string) = exec("curl -LOk# " & url)
 
@@ -39,6 +39,11 @@ withDir("DICK"):     # https://en.wikipedia.org/wiki/Dick_Cheney
   curl"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Richard_Cheney_2005_official_portrait.jpg/163px-Richard_Cheney_2005_official_portrait.jpg"
   curl"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Secretary_of_Defense_Richard_B._Cheney%2C_official_portrait.jpg/192px-Secretary_of_Defense_Richard_B._Cheney%2C_official_portrait.jpg"
   curl"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Dick_Cheney_by_Gage_Skidmore.jpg/202px-Dick_Cheney_by_Gage_Skidmore.jpg"
+
+withDir("MINORS"):   # https://en.wikipedia.org/wiki/Minor_chord
+  curl"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/E-flat-major_c-minor.svg/240px-E-flat-major_c-minor.svg.png"
+  curl"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/F-major_d-minor.svg/240px-F-major_d-minor.svg.png"
+  curl"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/B-flat-major_g-minor.svg/240px-B-flat-major_g-minor.svg.png"
 
 withDir("PASSWORDS"):     # Dummy file
   writeFile("CREDIT_CARD_PASSWORD.docx", "\n")
