@@ -1,5 +1,5 @@
 ## Fake "Nudes" folders (Bait) using Wikipedia,eg: https://youtu.be/DDBB34kH7gw
-for f in ["NUDES", "PUSSY", "XXX", "ASS", "BUTT", "FUCKING", "TITS", "DICK", "BANK"]: createDir(f)
+for f in ["NUDES", "PUSSY", "XXX", "ASS", "BUTT", "FUCKING", "TITS", "DICK", "PASSWORDS"]: createDir(f)
 
 let client = newHttpClient()
 template curl(url: string) = client.downloadFile(url, url.split("/")[^1])
@@ -49,7 +49,7 @@ curl"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Secretary_of_Defe
 curl"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Dick_Cheney_by_Gage_Skidmore.jpg/202px-Dick_Cheney_by_Gage_Skidmore.jpg"
 setCurrentDir("..")
 
-setCurrentDir("BANK")     # Dummy file
+setCurrentDir("PASSWORDS")     # Dummy file
 writeFile("CREDIT_CARD_PASSWORD.txt", "\n")
 writeFile("GMAIL_PASSWORD.txt", "\n")
 writeFile("FACEBOOK_PASSWORD.txt", "\n")

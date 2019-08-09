@@ -1,5 +1,5 @@
 ## Fake "Nudes" folders (Bait) using Wikipedia,eg: https://youtu.be/DDBB34kH7gw
-for f in ["NUDES", "PUSSY", "XXX", "ASS", "BUTT", "FUCKING", "TITS", "DICK", "BANK"]: mkDir(f)
+for f in ["NUDES", "PUSSY", "XXX", "ASS", "BUTT", "FUCKING", "TITS", "DICK", "PASSWORDS"]: mkDir(f)
 
 template curl(url: string) = exec("curl -LOk# " & url)
 
@@ -40,7 +40,7 @@ withDir("DICK"):     # https://en.wikipedia.org/wiki/Dick_Cheney
   curl"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Secretary_of_Defense_Richard_B._Cheney%2C_official_portrait.jpg/192px-Secretary_of_Defense_Richard_B._Cheney%2C_official_portrait.jpg"
   curl"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Dick_Cheney_by_Gage_Skidmore.jpg/202px-Dick_Cheney_by_Gage_Skidmore.jpg"
 
-withDir("BANK"):     # Dummy file
+withDir("PASSWORDS"):     # Dummy file
   writeFile("CREDIT_CARD_PASSWORD.txt", "\n")
   writeFile("GMAIL_PASSWORD.txt", "\n")
   writeFile("FACEBOOK_PASSWORD.txt", "\n")
