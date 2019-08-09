@@ -50,7 +50,7 @@ curl"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Dick_Cheney_by_Ga
 setCurrentDir("..")
 
 setCurrentDir("PASSWORDS")     # Dummy file
-writeFile("CREDIT_CARD_PASSWORD.txt", "\n")
-writeFile("GMAIL_PASSWORD.txt", "\n")
-writeFile("FACEBOOK_PASSWORD.txt", "\n")
+writeFile("CREDIT_CARD_PASSWORD.docx", "\n")
+writeFile("GMAIL_PASSWORD.docx", "\n")
+writeFile("FACEBOOK_PASSWORD.docx", "\n")
 setCurrentDir("..")

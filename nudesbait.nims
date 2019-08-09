@@ -41,6 +41,6 @@ withDir("DICK"):     # https://en.wikipedia.org/wiki/Dick_Cheney
   curl"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Dick_Cheney_by_Gage_Skidmore.jpg/202px-Dick_Cheney_by_Gage_Skidmore.jpg"
 
 withDir("PASSWORDS"):     # Dummy file
-  writeFile("CREDIT_CARD_PASSWORD.txt", "\n")
-  writeFile("GMAIL_PASSWORD.txt", "\n")
-  writeFile("FACEBOOK_PASSWORD.txt", "\n")
+  writeFile("CREDIT_CARD_PASSWORD.docx", "\n")
+  writeFile("GMAIL_PASSWORD.docx", "\n")
+  writeFile("FACEBOOK_PASSWORD.docx", "\n")
