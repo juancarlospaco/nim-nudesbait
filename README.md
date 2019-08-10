@@ -22,7 +22,7 @@ nim c -r nudesbait_online.nim
 
 **OR**
 
-[Nim](https://nim-lang.org) (Offline, No Internet required, No curl required, No Nim required):
+[Nim](https://nim-lang.org) **(Offline, No Internet required, No curl required, No Nim required)**:
 ```console
 nim c -r nudesbait_offline.nim
 ```
