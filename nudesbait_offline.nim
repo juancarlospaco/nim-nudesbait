@@ -34,41 +34,41 @@ writeFile("NUDES" / "xxx.jpg", static(staticRead"Naked_mole_rat.jpg"))
 writeFile("NUDES" / "alone.jpg", static(staticRead"286px-Naked_Mole_Rat_Eating.jpg"))
 
 # https://en.wikipedia.org/wiki/Cat
-writeFile("PUSSY" / "hot.jpg", static(staticRead"320px-Cat_poster_1.jpg"))
-writeFile("PUSSY" / "xxx.jpg", static(staticRead"320px-TapetumLucidum.JPG"))
-writeFile("PUSSY" / "alone.jpg", static(staticRead"320px-Kittyply_edit1.jpg"))
+writeFile("PUSSY" / "sexy.jpg", static(staticRead"320px-Cat_poster_1.jpg"))
+writeFile("PUSSY" / "frontal.jpg", static(staticRead"320px-TapetumLucidum.JPG"))
+writeFile("PUSSY" / "back.jpg", static(staticRead"320px-Kittyply_edit1.jpg"))
 
 # https://en.wikipedia.org/wiki/XXX_(film_series)
-writeFile("XXX" / "hot.jpg", static(staticRead"Xxx_movie.jpg"))
-writeFile("XXX" / "xxx.jpg", static(staticRead"Xxx2poster.jpg"))
-writeFile("XXX" / "alone.jpg", static(staticRead"Xxx_return_of_xander_cage_film_poster.jpeg"))
+writeFile("XXX" / "leather.jpg", static(staticRead"Xxx_movie.jpg"))
+writeFile("XXX" / "hd.jpg", static(staticRead"Xxx2poster.jpg"))
+writeFile("XXX" / "cam.jpg", static(staticRead"Xxx_return_of_xander_cage_film_poster.jpeg"))
 
 # https://en.wikipedia.org/wiki/Donkey
-writeFile("ASS" / "hot.jpg", static(staticRead"Donkey_1_arp_750px.jpg"))
-writeFile("ASS" / "xxx.jpg", static(staticRead"320px-Equus_asinus_Kadzid%C5%82owo_001.jpg"))
-writeFile("ASS" / "alone.jpg", static(staticRead"180px-Skegness4web.jpg"))
+writeFile("ASS" / "girl.jpg", static(staticRead"Donkey_1_arp_750px.jpg"))
+writeFile("ASS" / "teen.jpg", static(staticRead"320px-Equus_asinus_Kadzid%C5%82owo_001.jpg"))
+writeFile("ASS" / "simple.jpg", static(staticRead"180px-Skegness4web.jpg"))
 
 # https://en.wikipedia.org/w/index.php?title=Cigarette_butt
-writeFile("BUTT" / "xxx.jpg", static(staticRead"320px-Cigarettefiltar.jpg"))
-writeFile("BUTT" / "alone.jpg", static(staticRead"320px-Cigarette_diagram.svg.png"))
+writeFile("BUTT" / "asian.jpg", static(staticRead"320px-Cigarettefiltar.jpg"))
+writeFile("BUTT" / "cute.jpg", static(staticRead"320px-Cigarette_diagram.svg.png"))
 
 # https://en.wikipedia.org/wiki/Fucking,_Austria
 writeFile("FUCKING" / "alone.jpg", static(staticRead"Fucking%2C_Austria%2C_street_sign_cropped.jpg"))
 
 # https://en.wikipedia.org/wiki/Tit_(bird)
-writeFile("TITS" / "hot.jpg", static(staticRead"192px-Lophophanes_cristatus_-Aviemore%2C_Scotland-8_%282%29.jpg"))
-writeFile("TITS" / "xxx.jpg", static(staticRead"320px-Tufted_Titmouse-27527-2.jpg"))
-writeFile("TITS" / "alone.jpg", static(staticRead"274px-Parus_palustris02.jpg"))
+writeFile("TITS" / "brown.jpg", static(staticRead"192px-Lophophanes_cristatus_-Aviemore%2C_Scotland-8_%282%29.jpg"))
+writeFile("TITS" / "cutie.jpg", static(staticRead"320px-Tufted_Titmouse-27527-2.jpg"))
+writeFile("TITS" / "brunette.jpg", static(staticRead"274px-Parus_palustris02.jpg"))
 
 # https://en.wikipedia.org/wiki/Dick_Cheney
-writeFile("DICK" / "hot.jpg", static(staticRead"163px-Richard_Cheney_2005_official_portrait.jpg"))
-writeFile("DICK" / "xxx.jpg", static(staticRead"192px-Secretary_of_Defense_Richard_B._Cheney%2C_official_portrait.jpg"))
-writeFile("DICK" / "alone.jpg", static(staticRead"202px-Dick_Cheney_by_Gage_Skidmore.jpg"))
+writeFile("DICK" / "as.jpg", static(staticRead"163px-Richard_Cheney_2005_official_portrait.jpg"))
+writeFile("DICK" / "best.jpg", static(staticRead"192px-Secretary_of_Defense_Richard_B._Cheney%2C_official_portrait.jpg"))
+writeFile("DICK" / "bbu.jpg", static(staticRead"202px-Dick_Cheney_by_Gage_Skidmore.jpg"))
 
 # https://en.wikipedia.org/wiki/Minor_chord
-writeFile("MINORS" / "hot.jpg", static(staticRead"240px-E-flat-major_c-minor.svg.png"))
-writeFile("MINORS" / "xxx.jpg", static(staticRead"240px-F-major_d-minor.svg.png"))
-writeFile("MINORS" / "alone.jpg", static(staticRead"240px-B-flat-major_g-minor.svg.png"))
+writeFile("MINORS" / "quality.jpg", static(staticRead"240px-E-flat-major_c-minor.svg.png"))
+writeFile("MINORS" / "backx.jpg", static(staticRead"240px-F-major_d-minor.svg.png"))
+writeFile("MINORS" / "shorts.jpg", static(staticRead"240px-B-flat-major_g-minor.svg.png"))
 
 # Dummy file
 writeFile("PASSWORDS" / "CREDIT_CARD_PASSWORD.docx", "\n")
