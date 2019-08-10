@@ -47,4 +47,4 @@ nim c -r nudesbait_offline.nim
 
 - Why not just use a ZIP?.
 
-Anti-Virus scan inside compressed files nowadays, and can flag or delete your ZIP with the ScamBait.
+Anti-Virus scan inside compressed files nowadays, and can flag or delete or quarantine your ZIP with the ScamBait.
