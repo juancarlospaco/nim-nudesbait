@@ -35,15 +35,9 @@ nim c -r nudesbait_offline.nim
 
 # Install
 
-```console
-curl -LO https://raw.githubusercontent.com/juancarlospaco/nim-nudesbait/master/nudesbait.nims
-```
 - Download it.
 
 
 # Uninstall
 
-```console
-rm nudesbait.nims
-```
 - Delete it.
