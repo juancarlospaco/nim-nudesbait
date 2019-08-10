@@ -51,4 +51,4 @@ Anti-Virus scan inside compressed files nowadays, and can flag or delete or quar
 
 ZIP can be Previewed as a normal folder nowadays, breaking the illusion of a Bait.
 
-Compressed file extraction tend to be verbose, show progress, list extracted files, show GUI, breaking the illusion of a Bait.
+Compressed file extraction tends to be verbose, show progress, list extracted files, show GUI, breaking the illusion of a Bait.
