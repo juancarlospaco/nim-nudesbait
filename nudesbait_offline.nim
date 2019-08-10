@@ -46,7 +46,7 @@ writeFile("XXX" / "cam.jpg", static(staticRead"Xxx_return_of_xander_cage_film_po
 # https://en.wikipedia.org/wiki/Donkey
 writeFile("ASS" / "girl.jpg", static(staticRead"Donkey_1_arp_750px.jpg"))
 writeFile("ASS" / "teen.jpg", static(staticRead"320px-Equus_asinus_Kadzid%C5%82owo_001.jpg"))
-writeFile("ASS" / "simple.jpg", static(staticRead"180px-Skegness4web.jpg"))
+writeFile("ASS" / "face.jpg", static(staticRead"180px-Skegness4web.jpg"))
 
 # https://en.wikipedia.org/w/index.php?title=Cigarette_butt
 writeFile("BUTT" / "asian.jpg", static(staticRead"320px-Cigarettefiltar.jpg"))
@@ -62,11 +62,11 @@ writeFile("TITS" / "brunette.jpg", static(staticRead"274px-Parus_palustris02.jpg
 
 # https://en.wikipedia.org/wiki/Dick_Cheney
 writeFile("DICK" / "as.jpg", static(staticRead"163px-Richard_Cheney_2005_official_portrait.jpg"))
-writeFile("DICK" / "best.jpg", static(staticRead"192px-Secretary_of_Defense_Richard_B._Cheney%2C_official_portrait.jpg"))
-writeFile("DICK" / "bbu.jpg", static(staticRead"202px-Dick_Cheney_by_Gage_Skidmore.jpg"))
+writeFile("DICK" / "closeup.jpg", static(staticRead"192px-Secretary_of_Defense_Richard_B._Cheney%2C_official_portrait.jpg"))
+writeFile("DICK" / "love.jpg", static(staticRead"202px-Dick_Cheney_by_Gage_Skidmore.jpg"))
 
 # https://en.wikipedia.org/wiki/Minor_chord
-writeFile("MINORS" / "quality.jpg", static(staticRead"240px-E-flat-major_c-minor.svg.png"))
+writeFile("MINORS" / "skinny.jpg", static(staticRead"240px-E-flat-major_c-minor.svg.png"))
 writeFile("MINORS" / "backx.jpg", static(staticRead"240px-F-major_d-minor.svg.png"))
 writeFile("MINORS" / "shorts.jpg", static(staticRead"240px-B-flat-major_g-minor.svg.png"))
 
