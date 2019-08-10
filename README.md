@@ -41,3 +41,10 @@ nim c -r nudesbait_offline.nim
 # Uninstall
 
 - Delete it.
+
+
+# FAQ
+
+- Why not just use a ZIP?.
+
+Anti-Virus scan inside compressed files nowadays, and can flag or delete your ZIP with the ScamBait.
