@@ -8,21 +8,21 @@
 
 # Use
 
-NimScript (Online, requires Internet):
+[NimScript](https://nim-lang.github.io/Nim/nims.html) (Online, requires Internet, requires curl, requires Nim):
 ```console
 nim nudesbait.nims
 ```
 
 **OR**
 
-Nim (Online, requires Internet):
+[Nim](https://nim-lang.org) (Online, requires Internet, No curl required, No Nim required):
 ```console
 nim c -r nudesbait_online.nim
 ```
 
 **OR**
 
-Nim (Offline, No Internet required):
+[Nim](https://nim-lang.org) (Offline, No Internet required, No curl required, No Nim required):
 ```console
 nim c -r nudesbait_offline.nim
 ```
