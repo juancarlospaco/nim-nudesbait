@@ -47,6 +47,8 @@ nim c -r nudesbait_offline.nim
 
 - Why not just use a ZIP?.
 
+This is designed to be very light weight but very tempting for Scammers.
+
 ZIP can be Previewed as a normal folder nowadays, breaking the illusion of a Bait.
 
 Compressed file extraction tends to be verbose, show progress, list extracted files, show GUI, breaking the illusion of a Bait.
