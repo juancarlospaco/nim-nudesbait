@@ -49,6 +49,8 @@ nim c -r nudesbait_offline.nim
 
 This is designed to be very light weight but very tempting for Scammers.
 
+This is can be used as a "Trust test", if you say someone Not to browse your files and you prove that person browsed your Nude photos.
+
 ZIP can be Previewed as a normal folder nowadays, breaking the illusion of a Bait.
 
 Compressed file extraction tends to be verbose, show progress, list extracted files, show GUI, breaking the illusion of a Bait.
