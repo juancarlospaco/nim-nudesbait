@@ -4,6 +4,16 @@
 
 [<img src="https://img.youtube.com/vi/DDBB34kH7gw/maxresdefault.jpg" width="99%">](https://youtu.be/DDBB34kH7gw?t=45 "4 Minute Video to understand whats this!")
 
+![](https://img.shields.io/github/languages/top/juancarlospaco/nim-nudesbait?style=for-the-badge)
+![](https://img.shields.io/github/languages/count/juancarlospaco/nim-nudesbait?logoColor=green&style=for-the-badge)
+![](https://img.shields.io/github/stars/juancarlospaco/nim-nudesbait?style=for-the-badge "Star nim-nudesbait onGitHub!")
+![](https://img.shields.io/maintenance/yes/2019?style=for-the-badge "2019")
+![](https://img.shields.io/github/languages/code-size/juancarlospaco/nim-nudesbait?style=for-the-badge)
+![](https://img.shields.io/github/issues-raw/juancarlospaco/nim-nudesbait?style=for-the-badge "Bugs")
+![](https://img.shields.io/github/issues-pr-raw/juancarlospaco/nim-nudesbait?style=for-the-badge "PRs")
+![](https://img.shields.io/github/commit-activity/y/juancarlospaco/nim-nudesbait?style=for-the-badge)
+![](https://img.shields.io/github/last-commit/juancarlospaco/nim-nudesbait?style=for-the-badge "Commits")
+
 
 # Use
 
